@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋, I`m Fedor</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Fedor from Russia<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning test libraries</p>
+<p align="left">>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning test libraries</p>
 
 ###
 
