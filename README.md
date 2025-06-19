@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,react,express,prisma,git,sass,tailwind" height="50" alt="skills"  />
 </div>
 
 ###
