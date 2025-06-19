@@ -7,7 +7,7 @@
 <div align="center">
   <a href='https://www.linkedin.com/in/fedor-kuznetsov-844467331'><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href='https://leetcode.com/u/fdg312/'><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="25" alt="leetcode logo"  /></a>
-  <a href='ffedorovzx@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25" alt="gmail logo"  /></a>
+  <a href='https://ffedorovzx@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="25" alt="gmail logo"  /></a>
 </div>
 
 ###
