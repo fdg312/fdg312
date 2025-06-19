@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Fedor from Russia<br><br>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning test libraries</p>
 
 ###
 
@@ -61,7 +61,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdg312&theme=dark&show_icons=true&hide_border=true&layout=compact" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fdg312&theme=dark&show_icons=true&hide_border=true&count_private=true" height="220"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdg312&theme=dark&hide_border=true" height="220"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdg312&theme=dark&show_icons=true&hide_border=true&layout=compact" height="220"  />
 </div>
 
 ###
