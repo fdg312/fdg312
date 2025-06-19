@@ -34,8 +34,9 @@
 
 ###
 
-![React|100x200](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="25" alt="linkedin logo"  />
+</div>
 
 ###
 
