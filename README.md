@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="30" alt="nextjs logo"  />
 </div>
 
 ###
