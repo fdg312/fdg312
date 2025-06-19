@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">>- 🔭 I’m working as Frontend developer<br>- 📚 I'm currently learning test libraries</p>
+<ul align="left">><li>🔭 I’m working as Frontend developer</li><li>📚 I'm currently learning test libraries</li></ul>
 
 ###
 
