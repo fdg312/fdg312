@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
@@ -62,7 +61,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fdg312&theme=dark&show_icons=true&hide_border=true&count_private=true" height="220"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdg312&theme=dark&hide_border=true" height="220"  />
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdg312&theme=dark&show_icons=true&hide_border=true&layout=compact" height="220"  />
 </div>
 
