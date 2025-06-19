@@ -34,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,react,express,prisma,git,sass,tailwind" height="50" alt="skills"  />
 </div>
 
