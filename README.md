@@ -41,7 +41,7 @@
 
 <div align="center">
   <p><strong>Backend & Infrastructure</strong></p>
-  <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,linux,git" height="50" alt="backend skills"  />
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,linux,git" height="50" alt="backend skills"  />
   <br><br>
   <p><strong>Frontend</strong></p>
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,sass,html,css" height="50" alt="frontend skills"  />
