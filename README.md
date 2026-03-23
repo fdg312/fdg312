@@ -17,7 +17,7 @@
 
 ###
 
-<h1 align="center">hey there 👋, I`m Fedor</h1>
+<h1 align="center">hey there 👋, I'm Fedor</h1>
 
 ###
 
@@ -25,21 +25,31 @@
 
 ###
 
-<ul align="left"><li>🔭 I’m working as Frontend developer</li><li>📚 I'm currently learning test libraries</li><li>💬 Ask me about React, Typescript and related technologies </li><li>✉️ Connect with me via this mail: ffedorovzx@gmail.com </li></ul>
+<ul align="left">
+  <li>🔭 I’m currently focused on <b>Backend Development with Go</b> (microservices, gRPC, REST).</li>
+  <li>👯 I have a strong background as a <b>Frontend developer</b> (React, TypeScript), which helps me design client-friendly APIs.</li>
+  <li>📚 I'm currently learning Docker, CI/CD, testing, and advanced database concepts.</li>
+  <li>💬 Ask me about Go, React, TypeScript and building scalable applications.</li>
+  <li>✉️ Connect with me via mail: ffedorovzx@gmail.com </li>
+</ul>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,react,express,prisma,git,sass,tailwind" height="50" alt="skills"  />
+  <p><strong>Backend & Infrastructure</strong></p>
+  <img src="https://skillicons.dev/icons?i=go,docker,postgres,redis,linux,git" height="50" alt="backend skills"  />
+  <br><br>
+  <p><strong>Frontend</strong></p>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,sass,html,css" height="50" alt="frontend skills"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats :</h3>
 
 ###
 
@@ -51,18 +61,3 @@
 </div>
 
 ###
-
-<!--
-**fdg312/fdg312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
