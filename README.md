@@ -15,30 +15,20 @@
 
 ## About
 
-2nd-year student at ITMO University (Information Systems and Technologies). Transitioning from frontend (React, TypeScript, Next.js) to backend with Go, now focused on microservices and gRPC. My frontend background helps me design APIs that are actually pleasant to integrate with.
+- 2nd-year student at ITMO University (Information Systems and Technologies)
+- Transitioning from frontend (React, TypeScript, Next.js) to backend in Go
+- Focused on microservices and gRPC
+- Designing APIs with the frontend perspective in mind
 
 ## Tech
 
-**Backend** — Go, gRPC, PostgreSQL, Redis, Docker, Docker Compose, NestJS, Express
-**Frontend** — TypeScript, React, Next.js, Redux Toolkit, Zustand, TailwindCSS
-**Tools** — Git, GitHub Actions, Linux
+**Backend** — Go · gRPC · PostgreSQL · Redis · Docker · Docker Compose · NestJS · Express
+**Frontend** — TypeScript · React · Next.js · Redux Toolkit · Zustand · TailwindCSS
+**Tools** — Git · GitHub Actions · Linux
 **Also** — C++
 
 ## Projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/fdg312/ecommerce-microservices">ecommerce-microservices</a></b><br />
-      Go/gRPC microservices with API Gateway, Auth, Cart; PostgreSQL + Redis, Docker Compose, CI.
-    </td>
-    <td width="33%" valign="top">
-      <b>Metallsnab-96</b><br />
-      Commercial website with Excel price-list sync built with Node.js.
-    </td>
-    <td width="33%" valign="top">
-      <b>ITMO coursework</b><br />
-      C++ labs: classes, polymorphism, RTTI.
-    </td>
-  </tr>
-</table>
+- **[ecommerce-microservices](https://github.com/fdg312/ecommerce-microservices)** — Go/gRPC microservices (API Gateway, Auth, Cart) with PostgreSQL, Redis, Docker Compose, and CI
+- **Metallsnab-96** — commercial website with Excel price-list sync (Node.js)
+- **ITMO coursework** — C++ labs: classes, polymorphism, RTTI
