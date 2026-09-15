@@ -22,10 +22,10 @@
 
 ## Tech
 
-**Backend** — Go · gRPC · PostgreSQL · Redis · Docker · Docker Compose · NestJS · Express
-**Frontend** — TypeScript · React · Next.js · Redux Toolkit · Zustand · TailwindCSS
-**Tools** — Git · GitHub Actions · Linux
-**Also** — C++
+- **Backend** — Go · gRPC · PostgreSQL · Redis · Docker · Docker Compose · NestJS · Express
+- **Frontend** — TypeScript · React · Next.js · Redux Toolkit · Zustand · TailwindCSS
+- **Tools** — Git · GitHub Actions · Linux
+- **Also** — C++
 
 ## Projects
 
