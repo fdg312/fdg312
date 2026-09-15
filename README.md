@@ -1,63 +1,44 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# Fedor Kuznetsov
+
+**Backend developer — Go, gRPC, microservices**
+
+<a href="https://github.com/fdg312"><img src="https://img.shields.io/badge/GitHub-fdg312-2f6f73?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/fedor-kuznetsov-844467331"><img src="https://img.shields.io/badge/LinkedIn-Fedor%20Kuznetsov-2f6f73?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/fdg312/"><img src="https://img.shields.io/badge/LeetCode-fdg312-2f6f73?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:ffedorovzx@gmail.com"><img src="https://img.shields.io/badge/Email-ffedorovzx%40gmail.com-2f6f73?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href='https://www.linkedin.com/in/fedor-kuznetsov-844467331'><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a href='https://leetcode.com/u/fdg312/'><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" height="25" alt="leetcode logo"  /></a>
-</div>
+## About
 
-###
+2nd-year student at ITMO University (Information Systems and Technologies). Transitioning from frontend (React, TypeScript, Next.js) to backend with Go, now focused on microservices and gRPC. My frontend background helps me design APIs that are actually pleasant to integrate with.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fdg312.fdg312&"  />
-</div>
+## Tech
 
-###
+**Backend** — Go, gRPC, PostgreSQL, Redis, Docker, Docker Compose, NestJS, Express
+**Frontend** — TypeScript, React, Next.js, Redux Toolkit, Zustand, TailwindCSS
+**Tools** — Git, GitHub Actions, Linux
+**Also** — C++
 
-<h1 align="center">hey there 👋, I'm Fedor</h1>
+## Projects
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<ul align="left">
-  <li>🔭 I’m currently focused on <b>Backend Development with Go</b> (microservices, gRPC, REST).</li>
-  <li>👯 I have a strong background as a <b>Frontend developer</b> (React, TypeScript), which helps me design client-friendly APIs.</li>
-  <li>📚 I'm currently learning Docker, CI/CD, testing, and advanced database concepts.</li>
-  <li>💬 Ask me about Go, React, TypeScript and building scalable applications.</li>
-  <li>✉️ Connect with me via mail: ffedorovzx@gmail.com </li>
-</ul>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="center">
-  <p><strong>Backend & Infrastructure</strong></p>
-  <img src="https://skillicons.dev/icons?i=go,docker,postgres,linux,git" height="50" alt="backend skills"  />
-  <br><br>
-  <p><strong>Frontend</strong></p>
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwind,sass,html,css" height="50" alt="frontend skills"  />
-</div>
-
-###
-
-<h3 align="left">🔥  My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fdg312&theme=dark&show_icons=true&hide_border=true&count_private=true" height="220"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdg312&theme=dark&show_icons=true&hide_border=true&layout=compact" height="220"  />
-</div>
-
-###
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b><a href="https://github.com/fdg312/ecommerce-microservices">ecommerce-microservices</a></b><br />
+      Go/gRPC microservices with API Gateway, Auth, Cart; PostgreSQL + Redis, Docker Compose, CI.
+    </td>
+    <td width="33%" valign="top">
+      <b>Metallsnab-96</b><br />
+      Commercial website with Excel price-list sync built with Node.js.
+    </td>
+    <td width="33%" valign="top">
+      <b>ITMO coursework</b><br />
+      C++ labs: classes, polymorphism, RTTI.
+    </td>
+  </tr>
+</table>
